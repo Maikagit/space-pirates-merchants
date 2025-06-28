@@ -20,6 +20,10 @@ Space Pirates and Merchants est un jeu de simulation spatiale où vous incarnez 
 
 Ce jeu est développé en Python en utilisant la bibliothèque Pygame.
 
+Une démonstration 3D basée sur **Three.js** est disponible dans le dossier
+`web/`. Ouvrez simplement `web/index.html` dans un navigateur compatible
+WebGL pour l'essayer.
+
 ## Installation
 
 ```bash
